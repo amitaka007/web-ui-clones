@@ -89,21 +89,6 @@ git push -u origin <your_branch_name>
 
 Hurray! You successfully made a contribution!
 
-## 😎 Maintainer
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/64949957" width="150px" alt="profile" />
-      <br/>
-      Jigar Sable
-      <br/>
-      <a href="https://www.linkedin.com/in/jigar-sable">LinkedIn</a>&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/jigar-sable">Github</a>
-    </td> 
-  </tr>
-</table>
-
 ## ✨ Our Valuable Contributors 
 
 <a href="https://github.com/jigar-sable/web-ui-clones/graphs/contributors">
